@@ -3,7 +3,7 @@ I  am glad to announce to you an organization for developers to think positively
 
 ## Meet the Maintainers & Contributors of FCC International
 
----------------|-------------|-----------
+
 Name/ Username | POSITION    | Location
 ---------------|-------------|--------------
 Joseph Burton  | Maintainer  | 
