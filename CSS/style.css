@@ -1,0 +1,29 @@
+ body{
+     padding: 0px;
+     margin: 0px;
+     box-sizing: border-box;
+ }
+ h3 {
+    text-align: center;
+    padding-bottom: -10px;
+}
+.card p {
+    padding-top: -15px;
+    text-align: center;
+}
+.card-img {
+    align-items: center;
+    padding-left: 50px;
+    margin: auto;
+}
+
+.text-center {
+    color: white;
+}
+
+.footer {
+    font-family: "Times New Roman",sans-serif;
+    padding: 5px;
+    margin: 5px;
+    font-weight: normal;
+}
